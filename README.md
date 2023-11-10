@@ -37,6 +37,8 @@ This game was developed during the week of October 23 to October 29, 2023.
 ![HTML Badge](https://img.shields.io/badge/html-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=%23FFFFFF)
 ![CSS Badge](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)
 ![!JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
+## Tool used
 ![Vite.js Badge](https://img.shields.io/badge/vite.js-%232C3A42.svg?style=for-the-badge&logo=vite&logoColor=%2361AFEF)
 
 ## Development
