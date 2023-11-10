@@ -9,22 +9,18 @@ Link to the game : [![Custom Badge](https://img.shields.io/badge/Miner%20Clicker
 
 ## Description
 
-This project showcases our game cookie clicker built with Javascript, CSS and HTML.
+This project is built with Javascript, CSS and HTML.
 
-version of the famous game Cookie Clicker made during our training process at Becode.
+version of the famous game Cookie Clicker made during my training process at Becode.
 
-This project was a collaborative effort by:
+This project was a collaborative effort.
 
-- Yannick
-- Jerome
-- Hamid
   
 This game was developed during the week of October 23 to October 29, 2023.
 
 ## Preview
 
 ![Screenshot](https://github.com/slatohamid/cookie-clicker/assets/117818692/12008191-04cc-4f5d-8e78-1fe0c1dc982f)
-
 
 
 ## Features
