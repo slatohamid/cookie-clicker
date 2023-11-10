@@ -3,13 +3,9 @@
 
 # Cookie (Miner) Clicker
 
-
+[![Miner Clicker](https://img.shields.io/badge/MINER%20CLICKER-Click%20Here-%23fbd81a?style=for-the-badge&logo=circle&logoColor=%23ffcc24)](https://slatohamid.github.io/cookie-clicker/)
 
 **Live preview**
-
-
-
-<a href="https://slatohamid.github.io/cookie-clicker/" target="_blank"><img src="https://img.shields.io/badge/Miner%20Clicker-Click%20Here-%23fbd81a?style=flat" alt="Custom Badge" width="200"></a>
 
 </div>
 
@@ -19,8 +15,6 @@ version of the famous game [Cookie Clicker](https://en.wikipedia.org/wiki/Cookie
 
 This project was a collaborative effort.
 
-  
-This game was developed during the week of October 23 to October 29, 2023.
 
 ## Preview
 
@@ -39,7 +33,10 @@ This game was developed during the week of October 23 to October 29, 2023.
 ![!JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ## Tool used
-![Vite.js Badge](https://img.shields.io/badge/vite.js-%232C3A42.svg?style=for-the-badge&logo=vite&logoColor=%2361AFEF)
+
+[![Vite.js Badge](https://img.shields.io/badge/vite.js-%23b73bfe?style=for-the-badge&logo=vite&logoColor=%23ffcc24)](https://vitejs.dev/)
+
+
 
 ## Development
 - `git clone project`
@@ -50,16 +47,18 @@ This game was developed during the week of October 23 to October 29, 2023.
 ## Note
 We should have employed Vite along with JSdoc/TS right from the project's outset. However, we only integrated it towards the end as an additional learning exercise, with the aim of deploying it using Vite.
 
-<div align="center">
+[![Custom Badge](https://img.shields.io/badge/Vite%20deployment-Click%20Here-%23b73bfe?style=for-the-badge&logo=vite&logoColor=%23ffcc24)](https://slatohamid.github.io/cookie-clicker/)
 
-<a href="https://slatohamid.github.io/cookie-clicker/" target="_blank"><img src="https://img.shields.io/badge/Vite%20deployment-Click%20Here-%23916cfe?style=flat" alt="Custom Badge" width="200"></a>
+## Copyright Notice
 
+© 10/2023 Hamid Slato. All Rights Reserved.
 
+This project and its contents are protected by copyright law. Hamid Slato hereby grants you the right to use, modify, and distribute this project, provided that the following conditions are met:
 
-</div>
+1. The use of this project is for non-commercial purposes.
+2. Any derivative works or modifications must attribute Hamid Slato as the original author.
+3. Redistributions of this project or any modified version must retain this copyright notice, the above conditions, and the following disclaimer.
 
+For commercial use or any other inquiries, please contact:
 
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230969ca?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamid-slato-83087284/)
